@@ -1,0 +1,29 @@
+{
+    "name": "@reldens/markdown",
+    "scope": "@reldens",
+    "version": "0.1.0",
+    "description": "Reldens - Markdown",
+    "author": "Damian A. Pastorini",
+    "license": "MIT",
+    "homepage": "https://github.com/damian-pastorini/reldens-markdown",
+    "source": true,
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/damian-pastorini/reldens-markdown.git"
+    },
+    "keywords": [
+        "reldens",
+        "markdown",
+        "web",
+        "html",
+        "markdown",
+        "nodejs",
+        "cms",
+        "transform",
+        "convert"
+    ],
+    "bugs": {
+        "url": "https://github.com/damian-pastorini/reldens-markdown/issues"
+    }
+}
