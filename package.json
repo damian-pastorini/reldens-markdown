@@ -1,7 +1,7 @@
 {
     "name": "@reldens/markdown",
     "scope": "@reldens",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Reldens - Markdown",
     "author": "Damian A. Pastorini",
     "license": "MIT",
